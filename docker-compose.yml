@@ -1,6 +1,6 @@
 version : "3.3"
 services :
   web :
-     image : trainwithshubham/my-note-app:latest
+     image : ryzen99/my-note-app:lastest
      ports :
          - "8000:8000"
