@@ -1,6 +1,6 @@
 version : "3.3"
 services :
   web :
-     image : ryzen99/my-note-app:lastest
+     image : ryzen99/my-note-app:latest
      ports :
          - "8000:8000"
